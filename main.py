@@ -10,9 +10,11 @@ import os
 import sys
 
 # The placard: a stapler, catalogued like a relic of a lost civilisation.
+# Catalogue number, date, material, donor, and the ritual purpose the
+# object supposedly served — binding papyrus to appease a feared god.
 LINE = (
     "Cat. No. 0417, c. 2019 CE. Stapler, forged steel, gift of the "
-    "Facilities Department. Ritual binding device; clerks clamped "
+    "Facilities Department. Ritual binding device; scribes clamped "
     "papyrus to appease the dread god of deadlines."
 )
 
